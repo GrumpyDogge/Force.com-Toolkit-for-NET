@@ -4,6 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>Salesforce.Common</RootNamespace>
     <AssemblyName>Salesforce.Common</AssemblyName>
+    <PackageVersion>2.0.0-beta1</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>
